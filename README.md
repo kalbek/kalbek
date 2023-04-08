@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with creating new features
 - 💬 Ask me about Javascript and it's vast libraries
-- 📫 How to reach me: email: Checkout [My Portfolio]('https://kalbek.github.io/Portfolio/')
+- 📫 How to reach me: email: Checkout [My Portfolio] ('https://kalbek.github.io/Portfolio/')
 - ⚡ Fun fact: I love to get along with people.
 
 <p align="center"><samp>

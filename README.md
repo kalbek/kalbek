@@ -1,6 +1,9 @@
-### Hi there 👋🏾 I am Kaleb Bekele
+<h2 align="center">
 
-<h2 align="center"> welcome to my Github!✨ I'm a Software Developer full of brilliant ideas, If you have a project that I can help you with, or a feature you want to be done just contact me and I dont hesitate to satisfy you.✨ </h2>
+### Hi there 👋🏾 I am Kaleb
+</h2>
+
+<h3 align="center"> welcome to my Github!✨ I'm a Software Developer full of brilliant ideas, If you have a project that I can help you with, or a feature you want to be done just contact me and I dont hesitate to satisfy you.✨ </h3>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">

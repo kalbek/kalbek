@@ -2,7 +2,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h1>Hi there 👋🏾 I am Kaleb</h2>
 </p>
 
-<h3> Welcome to my Github!✨ I'm a Software Developer full of brilliant ideas. ✨ If you have a project that I can help you with, or a feature you want built, dont hesitate to contact me. </h3>
+<h3> Welcome to my Github!✨ I'm a Software Developer full of brilliant ideas. ✨ If you have a project that I can help you with, or a feature you want built, dont hesitate to contact me.✨ </h3>
 
 <p >
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">

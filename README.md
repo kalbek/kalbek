@@ -12,15 +12,14 @@
  
 
 <p >
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <!--<img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"-->
+   <img width="250" src="https://media.giphy.com/media/h6sAj4AxXB2DkewTZU/giphy.gif">
 </p>
 
-<p align="center">
 <a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 <a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalbek&label=Profile%20views&color=0e75b6&style=flat" alt="lucash2022" /> </p>
 - 🔭 I’m currently working on a Payment Website and a Capstone Project
 - 🌱 I’m currently learning React, Redux, and Ruby on Rails. 
 - 👯 I’m looking to collaborate on projects
@@ -28,6 +27,8 @@
 - 💬 Ask me anything coding related especially about Javascript
 - 📫 To reach me, checkout My-Portfolio: https://kalbek.github.io/Portfolio/
 - ⚡ Fun fact: I love to get along with people.
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalbek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visits" /> </p>
 
 <p align="center"><samp>
 ⬇️ ⬇️ ⬇️ Check out my repos ⬇️ ⬇️ ⬇️  

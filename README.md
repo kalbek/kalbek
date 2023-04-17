@@ -3,12 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=I+am+a+Software+Developer;Full+of+brilliant+ideas✨.;)](https://git.io/typing-svg)
 <br>
 
-<p align="center">
-   <h1>
-   </h2>
-</p>
-
-<h3 align='center'> Welcome to my GitHub!✨. <br>If you have a project that I can help you with or a feature you want to be built,<br> don't hesitate to contact me.✨ </h3>
+<h3 align='center'> Welcome to my GitHub!✨. <br>If you have a project that I can help you with or a feature you want to be built,<br><br> don't hesitate to contact me.✨ </h3>
  
 
 <p align="center">

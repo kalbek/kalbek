@@ -8,14 +8,16 @@
    </h2>
 </p>
 
-<h3 align='center'> Welcome to my GitHub!✨. If you have a project that I can help you with or a feature you want to be built, don't hesitate to contact me.✨ </h3>
+<h3 align='center'> Welcome to my GitHub!✨. <br>If you have a project that I can help you with or a feature you want to be built,<br> don't hesitate to contact me.✨ </h3>
  
 
 <p align="center">
-  <<img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
    <!--img width="250" src="https://media.giphy.com/media/h6sAj4AxXB2DkewTZU/giphy.gif"-->
 </p>
 
+<br>
+<br>
 <div>
 - 🔭 I’m currently working on a Payment Website and a Capstone Project<br>
 - 🌱 I’m currently learning React, Redux, and Ruby on Rails. <br>

@@ -8,9 +8,8 @@
    </h2>
 </p>
 
-<center>
-   <h3> Welcome to my GitHub!✨. If you have a project that I can help you with or a feature you want to be built, don't hesitate to contact me.✨ </h3>
-</center>
+<h3 align='center'> Welcome to my GitHub!✨. If you have a project that I can help you with or a feature you want to be built, don't hesitate to contact me.✨ </h3>
+ 
 
 <p >
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
@@ -21,7 +20,7 @@
 <a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
-![Profile views]("https://komarev.com/ghpvc/?username=kalbek&color=brightgreen") <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalbek&label=Profile%20views&color=0e75b6&style=flat" alt="lucash2022" /> </p>
 - 🔭 I’m currently working on a Payment Website and a Capstone Project
 - 🌱 I’m currently learning React, Redux, and Ruby on Rails. 
 - 👯 I’m looking to collaborate on projects

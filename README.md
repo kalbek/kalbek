@@ -1,4 +1,5 @@
-<h1 align='center' style = 'margin-top:50px'>𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Lucas Erkana</h1>
+<h1 align='center' style = 'margin-top:50px'>Hi there👋🏾+I+am+Kaleb; I'm Lucas Erkana</h1>
+
 <div >
   <img align="center" src="./GitProfile2.gif" alt="Software Developer">
   
@@ -10,8 +11,6 @@
 
 <p align="center">
    <h1>
-
- Hi+there+👋🏾+I+am+Kaleb;
    </h2>
 </p>
 

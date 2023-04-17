@@ -11,22 +11,18 @@
 <h3 align='center'> Welcome to my GitHub!✨. If you have a project that I can help you with or a feature you want to be built, don't hesitate to contact me.✨ </h3>
  
 
-<p >
-  <!--<img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"-->
-   <img width="250" src="https://media.giphy.com/media/h6sAj4AxXB2DkewTZU/giphy.gif">
+<p align="center">
+  <<img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+   <!--img width="250" src="https://media.giphy.com/media/h6sAj4AxXB2DkewTZU/giphy.gif"-->
 </p>
 
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
-</p>
 <div>
-- 🔭 I’m currently working on a Payment Website and a Capstone Project
-- 🌱 I’m currently learning React, Redux, and Ruby on Rails. 
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with creating new features to payment website
-- 💬 Ask me anything coding related especially about Javascript
-- 📫 To reach me, checkout My-Portfolio: https://kalbek.github.io/Portfolio/
+- 🔭 I’m currently working on a Payment Website and a Capstone Project<br>
+- 🌱 I’m currently learning React, Redux, and Ruby on Rails. <br>
+- 👯 I’m looking to collaborate on projects<br>
+- 🤔 I’m looking for help with creating new features to payment website<br>
+- 💬 Ask me anything coding related especially about Javascript<br>
+- 📫 To reach me, checkout My-Portfolio: https://kalbek.github.io/Portfolio/<br>
 - ⚡ Fun fact: I love to get along with people.
 </div>
 <br>

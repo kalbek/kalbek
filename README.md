@@ -1,11 +1,7 @@
 <h1 align='center' style = 'margin-top:50px'>Hi there👋🏾, I am Kaleb</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Enrolled+in+Microverse;Front+End+Developer;)](https://git.io/typing-svg)
 <br>
-
-<div >
-  <img align="center" src="./GitProfile2.gif" alt="Software Developer">
-</div>
-
 
 <p align="center">
    <h1>

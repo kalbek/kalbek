@@ -1,6 +1,8 @@
 <p align="center">
    <h1>
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Hi+there+👋🏾+I+am+Kaleb;)](https://git.io/typing-svg)
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Enrolled+in+Microverse;Front+End+Developer;)](https://git.io/typing-svg)
+      
+ Hi+there+👋🏾+I+am+Kaleb;
    </h2>
 </p>
 

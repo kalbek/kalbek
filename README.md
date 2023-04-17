@@ -1,5 +1,7 @@
 <p align="center">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h1>Hi there 👋🏾 I am Kaleb</h2>
+   <h1>
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Hi+there+👋🏾+I+am+Kaleb;)](https://git.io/typing-svg)
+   </h2>
 </p>
 
 <h3> Welcome to my GitHub!✨ I'm a Software Developer full of brilliant ideas. ✨ If you have a project that I can help you with or a feature you want to be built, don't hesitate to contact me.✨ </h3>
@@ -13,7 +15,7 @@
 <a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=kalbek&color=brightgreen) </br>
+![Profile views]("https://komarev.com/ghpvc/?username=kalbek&color=brightgreen") <br>
 - 🔭 I’m currently working on a Payment Website and a Capstone Project
 - 🌱 I’m currently learning React, Redux, and Ruby on Rails. 
 - 👯 I’m looking to collaborate on projects

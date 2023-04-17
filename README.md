@@ -8,7 +8,9 @@
    </h2>
 </p>
 
-<h3> Welcome to my GitHub!✨ I'm a Software Developer full of brilliant ideas. ✨ If you have a project that I can help you with or a feature you want to be built, don't hesitate to contact me.✨ </h3>
+<center>
+   <h3> Welcome to my GitHub!✨. If you have a project that I can help you with or a feature you want to be built, don't hesitate to contact me.✨ </h3>
+</center>
 
 <p >
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">

@@ -14,7 +14,7 @@
 <br>
 <br>
 <div>
-- 🔭 I’m currently working on a Payment Website and on a JS Capstone Project<br>
+- 🔭 I’m currently working on School-fee Payment Website and a Javascript Capstone Project<br>
 - 🌱 I’m currently learning React, Redux, and Ruby on Rails. <br>
 - 👯 I’m looking to collaborate on projects<br>
 - 🤔 I’m looking for help with creating new features to payment website<br>

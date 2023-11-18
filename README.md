@@ -14,15 +14,13 @@
 
 <br>
 <br>
-<div>
-- 🔭 I’m currently working on School-fee Payment Website and a Javascript Capstone Project<br>
-- 🌱 I’m currently learning React, Redux, and Ruby on Rails. <br>
-- 👯 I’m looking to collaborate on projects<br>
-- 🤔 I’m looking for help with creating new features to payment website<br>
-- 💬 Ask me anything coding related especially about Javascript<br>
-- 📫 To reach me, checkout My-Portfolio: https://kalbek.github.io/Portfolio/<br>
-- ⚡ Fun fact: I love to get along with people.
-</div>
+ 
+- 🔭 My currently working on a School-fee Payment Website making a huge wave in a corporate bank. 🤑<br>
+- 🌱 I specialized in React, Redux, and Ruby on Rails. <br>
+- 👯 I’m looking to collaborate on side projects<br>
+- 📫 [Checkout my portfolio](https://kaleb-dev.vercel.app)
+- ⚡ I love getting along with people, and when I'm not coding I'm in my workshop crafting beautiful kinds of stuff.
+ 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalbek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visits" /> </p>
 
